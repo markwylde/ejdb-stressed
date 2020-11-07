@@ -1,4 +1,4 @@
-#ejdb-stressed
+# ejdb-stressed
 Stress test the ejdb database by filling it with lots of data and querying it.
 
 ## Installation
